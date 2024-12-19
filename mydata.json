@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "deep",
+      "email": "devamarya123@gail.com",
+      "age": 24,
+      "city": "Gurgaon"
+    },
+    {
+      "id": "e14b",
+      "name": "gudda",
+      "email": "motu@gmail.com",
+      "age": "22",
+      "city": "orai"
+    },
+    {
+      "id": "9380",
+      "name": "tedi",
+      "email": "tedi@gmail.com",
+      "age": "22",
+      "city": "noida"
+    },
+    {
+      "name": "dora",
+      "email": "mon@gmail.com",
+      "age": "23",
+      "city": "31December",
+      "id": "6162"
+    }
+  ]
+}
